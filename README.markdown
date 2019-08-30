@@ -1,7 +1,7 @@
 # XCOLOR
 This is designed to be used with [pastel](https://github.com/sharkdp/pastel), to facilitate color lookup for EXPLO-specific colors.
 
-It will scrape the hex code for a passed color name from our [Style Guide](https://styleguide.lab.explo.org), and return it. It also keeps a local cache of colors that have already been looked up so that it doens't have to hit the web site each time.
+It will scrape the hex code for a passed color name from our [Style Guide](https://styleguide.lab.explo.org), and return it. It also keeps a local cache of colors (~/.xcolor) that have already been looked up so that it doens't have to hit the web site each time.
 
 ## USAGE
 
